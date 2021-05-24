@@ -1,19 +1,19 @@
 
 ### Project Layout
 
-i) (Question 1)[./question_1.py] 
+i) [Question 1](./question_1.py) 
 
-ii) (Question 2)[./question_2.py] 
+ii) [Question 2](./question_2.py)
 
-iii) (Question 1 Test)[./question_1_test.py] 
+iii) [Question 1 Test](./question_1_test.py)
 
-iv) (Question 2 Test)[./question_2_test.py] 
+iv) [Question 2 Test](./question_2_test.py) 
 
-v) (Pipfile)[./Pipfile] - Contains Env setup
-
+v) [Pipfile](./Pipfile) - Contains Env setup
 
 
 ### Env Setup
+
 I'm using Pipenv to setup virtual environment.
 
 To run the environment:
