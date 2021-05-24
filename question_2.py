@@ -1,7 +1,7 @@
 from functools import cmp_to_key
 from operator import itemgetter
 
-def py3_sort_rejection_reasons(failure_reasons):
+def py3_sort_multilevel_rejections(failure_reasons):
 
     if failure_reasons:
      
